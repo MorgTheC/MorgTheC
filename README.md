@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **AN2122012@outlook.com**
 
-- ⚡ Fun fact **I'm sucks at web designing**
+- ⚡ Fun fact: **I'm sucks at web designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
