@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morgthec" alt="morgthec" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, kotlin, golang and java**
+- 🌱 I’m currently learning **javascript, kotlin, c++, golang and java**
 
 - 📫 How to reach me **AN2122012@outlook.com**
 
